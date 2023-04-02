@@ -1,2 +1,9 @@
 streamlit
 requests
+time
+streamlit_ace
+winsound
+folium
+pandas
+streamlit_folium
+PIL
