@@ -8,4 +8,4 @@ pandas
 streamlit_folium
 PIL
 numpy
-pip install python-time
+
