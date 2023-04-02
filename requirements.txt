@@ -7,3 +7,4 @@ folium
 pandas
 streamlit_folium
 PIL
+numpy
