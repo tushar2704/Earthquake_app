@@ -3,3 +3,7 @@
 ```
 streamlit run Earthquake_notify_app.py
 ```
+Pip install libraries
+```
+pip install -r requirements.txt
+```
