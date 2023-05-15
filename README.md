@@ -7,5 +7,15 @@ Pip install libraries
 ```
 pip install -r requirements.txt
 ```
-## Follow me on kaggle.com/tusharaggarwal27
-## Follow me on github.com/tushar2704
+## Author
+
+- <b>Tushar Aggarwal</b>
+- <b>LinkedIn</b>: https://www.linkedin.com/in/tusharaggarwalinseec/
+- <b>Website</b>: https://www.tushar-aggarwal.com/
+- <b>Kaggle</b>: https://www.kaggle.com/tusharaggarwal27
+
+
+
+## Feedback
+
+If you have any feedback, please reach out to me at tushar.inseec@gmail.com or info@tushar-aggarwal.com
